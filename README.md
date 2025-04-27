@@ -1,0 +1,1 @@
+Lista de exercicios da DIO: https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao ultilizando a linguagem Java, com o objetivo de exercitar e aprimorar minha lógica de programção
